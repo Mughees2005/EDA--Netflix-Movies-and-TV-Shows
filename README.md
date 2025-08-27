@@ -6,7 +6,7 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix Movies and 
 
 ## Dataset
 
-- **Source:** [Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- **Source:** [Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/anandshaw2001/netflix-movies-and-tv-shows)
 - **Columns:** `show_id`, `type`, `title`, `director`, `cast`, `country`, `date_added`, `release_year`, `rating`, `duration`, `listed_in`, `description`
 
 ## Key Analyses
